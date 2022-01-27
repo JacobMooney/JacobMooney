@@ -13,9 +13,9 @@ Most of my projects and study recently has involved the following tech:
 <img src="icons\nodejs-icon.svg" width="50" height="50">
 <img src="icons\react.svg" width="50" height="50">
 <img src="icons\redux.svg" width="50" height="50">
-<img src="icons\expo.svg" width="50" height="50">
-<img src="icons\mongodb.svg" width="50" height="50">
-<img src="icons\express.svg" width="50" height="50">
+<img src="icons\expo.svg" width="75" height="50">
+<img src="icons\mongodb.svg" width="75" height="50">
+<img src="icons\express.svg" width="75" height="50">
 <img src="icons\visual-studio-code.svg" width="50" height="50">
 <img src="icons\git-icon.svg" width="50" height="50">
 </p>  
@@ -29,3 +29,5 @@ Check out [my profile](https://www.codewars.com/users/Flare430).
 ![CodeWars Badge](https://www.codewars.com/users/Flare430/badges/large)
 
 Thanks for checking out my github!
+
+<img src="https://readme-jokes.vercel.app/api?theme=vue-dark&hideBorder" alt="Jokes Card" />
