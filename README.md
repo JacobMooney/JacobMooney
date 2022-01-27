@@ -4,19 +4,19 @@ My name is Jacob, I primarily work with the web but I am interested in just abou
 <br>
 Most of my projects and study recently has involved the following tech:  
 
-<img src="icons\html-5.svg" width="50" height="50">
-<img src="icons\css-3.svg" width="50" height="50">
-<img src="icons\javascript.svg" width="50" height="50">
-<img src="icons\bootstrap.svg" width="50" height="50">
-<img src="icons\npm.svg" width="50" height="50">
-<img src="icons\nodejs-icon.svg" width="50" height="50">
-<img src="icons\react.svg" width="50" height="50">
-<img src="icons\redux.svg" width="50" height="50">
-<img src="icons\expo.svg" width="50" height="50">
-<img src="icons\mongodb.svg" width="50" height="50">
-<img src="icons\express.svg" width="50" height="50">
-<img src="icons\visual-studio-code.svg" width="50" height="50">
-<img src="icons\git-icon.svg" width="50" height="50">
+![HTML-5](icons\html-5.svg)
+![CSS3](icons\css-3.svg)
+![javascript](icons\javascript.svg)
+![bootstrap](icons\bootstrap.svg)
+![npm](icons\npm.svg)
+![nodejs](icons\nodejs-icon.svg)
+![react](icons\react.svg)
+![redux](icons\redux.svg)
+![expo](icons\expo.svg)
+![mongodb](icons\mongodb.svg)
+![express](icons\express.svg)
+![git](icons\git-icon.svg)
+![vs-code](icons\visual-studio-code.svg)
 
 <br> 
 
