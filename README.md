@@ -1,6 +1,6 @@
-# Howdy 👋
+# Howdy, my name is Jacob 👋
 
-My name is Jacob, I primarily work with the web but I am interested in just about anything that involes programming.  
+I primarily work with the web but I am interested in just about anything that involes programming.  
 <br>
 Most of my projects and study recently has involved the following tech:
 
