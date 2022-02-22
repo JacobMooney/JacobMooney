@@ -22,7 +22,7 @@ Most of my projects and study recently has involved the following tech:
 
 <br>
 
-Also I like to solve code challenges on [Codewars](https://www.codewars.com)! One of my daily goals is to complete a challenge everday. I comment and upload all the problems I finish in the this [repo](https://github.com/JacobMooney/javascript-practice-problems).
+Also I like to solve code challenges on [Codewars](https://www.codewars.com) and [HackerRank](https://www.hackerrank.com)! One of my daily goals is to complete a challenge everday. I comment and upload all the problems I finish in the this [repo](https://github.com/JacobMooney/javascript-practice-problems).
 
 Check out [my profile](https://www.codewars.com/users/Flare430).
 
