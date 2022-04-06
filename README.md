@@ -5,7 +5,7 @@ My name is Jacob, I primarily work with the web but I am interested in just abou
 Most of my projects and study recently has involved the following tech:
 
 <p align="center">
-<img src="icons\html-5.svg" width="50" height="50">
+<img href="" src="icons\html-5.svg" width="50" height="50">
 <img src="icons\css-3.svg" width="50" height="50">
 <img src="icons\javascript.svg" width="50" height="50">
 <img src="icons\bootstrap.svg" width="50" height="50">
@@ -22,7 +22,7 @@ Most of my projects and study recently has involved the following tech:
 
 <br>
 
-Also I like to solve code challenges on [Codewars](https://www.codewars.com)! One of my daily goals is to complete a challenge everday. I comment and upload all the problems I finish in the this [repo](https://github.com/JacobMooney/javascript-practice-problems).
+Also I like to solve code challenges on [Codewars](https://www.codewars.com), I comment and upload all the problems I finish in the this [repo](https://github.com/JacobMooney/javascript-practice-problems).
 
 Check out [my profile](https://www.codewars.com/users/Flare430).
 
